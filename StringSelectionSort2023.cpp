@@ -1,7 +1,7 @@
 /*/*
 	Word Counter
 	Name: Daniela Valerio
-	Date: 10/21/2022
+	Date: 5/21/2023
 	
 */
 
